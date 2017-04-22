@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+@media ( max-width : 850px) {
+	.font-for-mobile {
+		color: #d83131;
+	}
+}
+.color-for-sline {
+	color: #d83131;
+}

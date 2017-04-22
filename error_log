@@ -1,0 +1,21 @@
+[15-Feb-2017 02:54:31 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 2048 bytes) in /home/thammych/public_html/wp-includes/load.php on line 1027
+[15-Feb-2017 02:54:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/dom.so' - /opt/alt/php54/usr/lib64/php/modules/dom.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[15-Feb-2017 02:54:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/suhosin.so' - /opt/alt/php54/usr/lib64/php/modules/suhosin.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[15-Feb-2017 02:54:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/xmlreader.so' - /opt/alt/php54/usr/lib64/php/modules/xmlreader.so: undefined symbol: dom_node_class_entry in Unknown on line 0
+[15-Feb-2017 02:54:32 UTC] PHP Fatal error:  Out of memory (allocated 16515072) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 1370
+[15-Feb-2017 02:54:32 UTC] PHP Fatal error:  Out of memory (allocated 16515072) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 1370
+[15-Feb-2017 02:54:32 UTC] PHP Fatal error:  Out of memory (allocated 16515072) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 1370
+[15-Feb-2017 02:54:32 UTC] PHP Fatal error:  Out of memory (allocated 16515072) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 1370
+[15-Feb-2017 02:54:32 UTC] PHP Fatal error:  Out of memory (allocated 16515072) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 1370
+[15-Feb-2017 02:54:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/xsl.so' - /opt/alt/php54/usr/lib64/php/modules/xsl.so: undefined symbol: dom_node_class_entry in Unknown on line 0
+[15-Feb-2017 02:54:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/imap.so' - libpam.so.0: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[15-Feb-2017 02:54:38 UTC] PHP Fatal error:  Out of memory (allocated 1835008) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/option.php on line 816
+[15-Feb-2017 02:54:38 UTC] PHP Fatal error:  Out of memory (allocated 13631488) (tried to allocate 49152 bytes) in /home/thammych/public_html/wp-includes/class-http.php on line 333
+[15-Feb-2017 02:54:38 UTC] PHP Fatal error:  Out of memory (allocated 1835008) (tried to allocate 6400 bytes) in /home/thammych/public_html/wp-includes/option.php on line 1810
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 7077888) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/link-template.php on line 1158
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/meta.php on line 594
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 1920 bytes) in /home/thammych/public_html/wp-includes/meta.php on line 357
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/meta.php on line 347
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/meta.php on line 507
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/meta.php on line 507
+[15-Feb-2017 02:54:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 12288 bytes) in /home/thammych/public_html/wp-includes/meta.php on line 594
